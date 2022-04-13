@@ -1,1 +1,1 @@
-pipf freeze
+pip freeze
